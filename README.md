@@ -98,8 +98,7 @@ BIN COLLECTION SCHEDULE
 ```
 ## Files
 
-- `bin_schedule_selenium.py` - Main script using Selenium to handle JavaScript forms (recommended)
-- `bin_schedule.py` - Alternative script using requests/BeautifulSoup (may not work with dynamic forms)
+- `bin_schedule_selenium.py` - Main script using Selenium to handle JavaScript forms
 - `inspect_form.py` - Utility script to inspect the website's form structure
 - `requirements.txt` - Python package dependencies
 
